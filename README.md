@@ -1,14 +1,9 @@
-### Hi there 👋
-
-
-**SSusantAchary/ssusantachary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 I'm Susant Achary
 
 ## Your short description
 - 🔭 I’m currently working on Understanding and Solving Real World Problems, and writing on my Medium Blogs 
-- 🌱 I’m currently learning on how AI can solve problem in Healthcare, Agriculture, Manufacturing
+- 🌱 I’m currently learning on how AI can solve problem in Healthcare, Agriculture, Manufacturing ... 
 - 👯 I’m looking to collaborate on Learning anything
-- 🤔 I’m looking for help with anthing
 - 💬 Ask me about ROS, DepthSensor Camera, Drone(Quadcopter) Tech, AI for Healthcare more...
 - 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul

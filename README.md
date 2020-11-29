@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Susant Achary
 
-## Your short description
 - 🔭 I’m currently working on Understanding and Solving Real World Problems, and writing on my Medium Blogs 
 - 🌱 I’m currently learning on how AI can solve problem in Healthcare, Agriculture, Manufacturing ... 
 - 👯 I’m looking to collaborate on Learning anything

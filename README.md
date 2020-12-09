@@ -1,12 +1,9 @@
 ### Hi there 👋 I'm Susant Achary
 
-- 🔭 I’m currently working on Understanding and Solving Real World Problems, and writing on my Medium Blogs 
+- 🔭 I’m currently working on Understanding and Solving Real World Problems, and writing on my Medium Blogs related to AI & Technology
 - 🌱 I’m currently learning on how technology can solve problems in Healthcare, Agriculture, Manufacturing ... 
-- 👯 I’m looking to collaborate on Learning anything
-- 💬 Ask me about ROS, DepthSensor Camera, Drone(Quadcopter) Tech, AI for Healthcare more...
 - 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul
-- ⚡ Fun fact: I am a foodie
 
 
 [![Susant's github stats](https://github-readme-stats.vercel.app/api?username=ssusantachary&count_private=true&include_all_commits=true&theme=radical)](https://google.com)

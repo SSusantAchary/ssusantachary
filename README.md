@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Susant Achary
 
-- 🔭 I’m currently working on Understanding and Solving Real World Problems, and writing on my Medium Blogs related to AI & Technology
-- 🌱 I’m currently learning on how technology can solve problems in Healthcare, Agriculture, Manufacturing ... 
+- 🔭 I’m currently working on Computer Vision and Natural Language Processing.
+- 🌱 I’m following how technology can solve problems in Healthcare, Agriculture, Manufacturing ... 
 - 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul
 

@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Susant Achary
 
 - 🔭 I’m currently working on Computer Vision and Natural Language Processing.
-- 🌱 I’m following how technology can solve problems in Healthcare, Agriculture, Manufacturing ... 
+- 🌱 I’m following technology solving problems in Healthcare, Agriculture, Manufacturing ... 
 - 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul
 

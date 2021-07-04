@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Susant Achary
 
-- 🔭 I’m currently working on Computer Vision and Natural Language Processing.
+- 🔭 I’m currently working on Computer Vision ,NLP, Android Dev.
 - 🌱 I’m following technology solving problems in Healthcare, Agriculture, Manufacturing ... 
 - 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul

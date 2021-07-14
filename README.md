@@ -4,6 +4,7 @@
 - 🌱 I’m following technology solving problems in Healthcare, Agriculture, Manufacturing ... 
 - 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul
+- Occasionally writes on [Medium]: https://medium.com/@acharysusant/
 
 
 [![Susant's github stats](https://github-readme-stats.vercel.app/api?username=ssusantachary&count_private=true&include_all_commits=true&theme=radical)](https://google.com)

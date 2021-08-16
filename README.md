@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Computer Vision ,NLP, Android Dev(Occasionally).
 - 🌱 I’m following technology & solving problems in Auto & Property, Manufacturing and focused also towards Healthcare, Agriculture. 
-- 📫 How to reach me: mail on sache.meet@outlook.com
+- 📫 How to reach me: mail on sache.meet@yahoo.com
 - 😄 Pronouns: Curious Soul
 - Writes on [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://medium.com/@acharysusant/)
 

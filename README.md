@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Susant Achary
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SSusantAchary&label=Views&color=blue&style=plastic" alt="SSusantAchary" /> </p>
 - 🔭 I’m currently working on Computer Vision ,NLP, Android Dev(Occasionally).
 - 🌱 I’m following technology & solving problems in Auto & Property, Manufacturing and focused also towards Healthcare, Agriculture. 
 - 📫 How to reach me: mail on sache.meet@yahoo.com
@@ -20,4 +20,5 @@
 [website]: https://medium.com/@acharysusant
 [linkedin]: https://www.linkedin.com/in/s-susant-achary-4793a847/
 
+### Show some ❤️ by starring some of the repositories!
 

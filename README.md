@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Susant Achary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SSusantAchary&label=Views&color=blue&style=plastic" alt="SSusantAchary" /> </p>
-- 🔭 I’m currently working on Computer Vision ,NLP, Android Dev(Occasionally).
-- 🌱 I’m following technology & solving problems in Auto & Property, Manufacturing and focused also towards Healthcare, Agriculture. 
-- 📫 How to reach me: mail on sache.meet@yahoo.com
-- 😄 Pronouns: Curious Soul
-- Writes on [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://medium.com/@acharysusant/)
+
+- 🔭 I’m currently working on Computer Vision ,NLP, Android Dev(Occasionally).</br>
+- 🌱 I’m following technology & solving problems in Auto & Property, Manufacturing and focused also towards Healthcare, Agriculture. </br>
+- 📫 How to reach me: mail on sache.meet@yahoo.com</br>
+- 😄 Pronouns: Curious Soul</br>
+- Writes on [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://medium.com/@acharysusant/)</br>
 
 ### Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)

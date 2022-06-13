@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Susant Achary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SSusantAchary&label=Views&color=blue&style=plastic" alt="SSusantAchary" /> </p>
 
-- 🔭 I’m currently working on Computer Vision ,NLP, Android Dev(Occasionally).</br>
-- 🌱 I’m following technology & solving problems in Auto & Property, Manufacturing and focused also towards Healthcare, Agriculture. </br>
+- 🔭 I’m have worked extensively on Computer Vision, Deep Learning ,NLP, Android Dev(Occasionally).</br>
+- 🌱 I’m following technology & solving problems focused towards Healthcare, Agriculture,Automation. </br>
 - 📫 How to reach me: mail on sache.meet@yahoo.com</br>
 - 😄 Pronouns: Curious Soul</br>
 - Writes on [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://medium.com/@acharysusant/)</br>

@@ -53,5 +53,5 @@
 
 ### Help Keep the Ideas Open Source 
 <p align="left">
-  <img src="https://github.com/SSusantAchary/ssusantachary/blob/main/CPay_banner.png" width="600" height="300" alt="Open Source Code Support" />
+  <img src="https://github.com/SSusantAchary/ssusantachary/blob/main/CPay_banner_u.png" width="600" height="300" alt="Open Source Code Support" />
 </p>

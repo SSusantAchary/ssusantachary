@@ -7,6 +7,7 @@
   * Deep Learning
   * Android Dev(Occasionally), Edge Computing
 - 🌱 I’m following technology & aimed to problem solving in </br>
+  * Education
   * Healthcare
   * E-Commerce
   * Agriculture

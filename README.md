@@ -35,18 +35,18 @@ I build practical ML systems—from experiments → scalable pipelines → produ
 
 ---
 
-## 🚧 Building: Local AI (Secure • Self-hosted • Offline)
+## 🚧 Building: Port AI (Secure • Self-hosted • Offline)
 
 <!-- Local AI banner -->
 <div align="center">
   <img 
-    src="https://github.com/SSusantAchary/Local-AI/blob/main/assets/local_ai.jpeg" 
-    alt="Local AI" 
+    src="https://github.com/SSusantAchary/Local-AI/blob/main/assets/port_ai.jpeg" 
+    alt="Port AI" 
     style="width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.5em;"
   />
 </div>
 
-**Local AI** is my ongoing project to run **Secure, self-hosted AI** across **Mobile • Edge • Laptop • Raspberry Pi**:
+**Port AI** is my ongoing project to run **Secure, self-hosted AI** across **Mobile • Edge • Laptop • Raspberry Pi**:
 - 🔒 **Secure-by-default**: local-first, privacy-first, offline-ready
 - 🧠 **LLM Apps**: chat, RAG, tool-use/agents, eval harness
 - ⚡ **Optimized**: quantized models, streaming, caching, lightweight deployments

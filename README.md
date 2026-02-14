@@ -50,13 +50,7 @@ I build practical ML systems—from experiments → scalable pipelines → produ
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70" alt="Discord" />
 </p>
 
-<!-- Small aesthetic icons row -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="52" alt="Flame" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="52" alt="Meteor" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="52" alt="Clock" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="52" alt="Eye" />
-</p>
+
 
 ---
 
@@ -71,7 +65,7 @@ I build practical ML systems—from experiments → scalable pipelines → produ
 
 ### 🩺 Medical AI
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="52" alt="Flame" />
 </p>
 
 - Clinical text & imaging workflows
@@ -79,7 +73,7 @@ I build practical ML systems—from experiments → scalable pipelines → produ
 
 ### 🎯 Recommendation Systems
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="52" alt="Clock" />
 </p>
 
 - Retrieval → ranking → evaluation (lift, deciles, offline/online metrics)
@@ -87,7 +81,7 @@ I build practical ML systems—from experiments → scalable pipelines → produ
 
 ### 🌍 GeoAI / Geospatial
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="52" alt="Eye" />
 </p>
 
 - Satellite imagery analytics & spatial ML
@@ -145,6 +139,8 @@ If you find my work useful, consider starring a repo — it helps a lot ❤️
 </p>
 
 **Help Keep the Ideas Open Source**
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="52" alt="Meteor" />
 <p align="left">
   <img src="https://github.com/SSusantAchary/ssusantachary/blob/main/CPay_banner_u.png" width="720" alt="Open Source Support" />
+  
 </p>

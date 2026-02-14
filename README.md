@@ -21,6 +21,18 @@
 **Interests:** AI for **Medical**, **Recommendation Systems**, and **Geospatial Intelligence**  
 I build practical ML systems—from experiments → scalable pipelines → production APIs.
 
+## Hugging Face Contributor
+<p align="left">
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="34" alt="Hugging Face" />
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=flat" alt="Contributor" />
+</p>
+
+- Contributing to **Hugging Face** ecosystem (docs, tooling, model workflows)
+- Building reproducible AI demos + practical ML systems for developers
+
 ---
 
 ## 🚧 Building: Local AI (Secure • Self-hosted • Offline)

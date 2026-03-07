@@ -1,3 +1,79 @@
+
+# Hi, I'm Susant Achary 👋
+
+📍 India ↔ Building Globally | 🤖 AI Systems Builder | 🚀 RecSys • GeoAI • Medical AI
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages & App Development</strong><br><br>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Databases & Data Engineering</strong><br><br>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>ML & Data Science</strong><br><br>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/-MLX-000000?style=flat-square&logo=apple&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+    <strong>Domains & AI Systems</strong><br><br>
+    <img src="https://img.shields.io/badge/-Machine%20Learning-222222?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Data%20Science-0A66C2?style=flat-square" />
+    <img src="https://img.shields.io/badge/-LLMs-6F42C1?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Recommendation%20Systems-8E44AD?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Computer%20Vision-1565C0?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Image%20Processing-00897B?style=flat-square" />
+    <img src="https://img.shields.io/badge/-E--commerce-D81B60?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Insurance%20Tech-6D4C41?style=flat-square" />
+    <img src="https://img.shields.io/badge/-GeoAI-1B5E20?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Medical%20AI-B71C1C?style=flat-square" />
+    <img src="https://img.shields.io/badge/-RAG-111111?style=flat-square" />
+    <img src="https://img.shields.io/badge/-MLOps-2E7D32?style=flat-square" />
+  </td>
+  </tr>
+</table>
+
+> I build practical AI systems — from research and experiments to scalable pipelines, production APIs, and developer-facing applications.
+
+Currently building in stealth_mode **Port AI** — secure, self-hosted, offline-ready AI across **Mobile • Edge • Laptop • Raspberry Pi**.
+
+
+## Current Projects
+
+- 🧠 [Gemma Recipes](https://github.com/SSusantAchary/Gemma_Recipes) - Practical Gemma notebooks and workflows for real-world AI use cases.
+- 👗 [StyleSense](https://github.com/SSusantAchary/StyleSense) - Fashion recommendation system covering real e-commerce personalization scenarios.
+- 🛰️ [Machine Learning for Geospatial](https://github.com/SSusantAchary/Machine-Learning-for-Geospatial) - GeoAI learning resources, experiments, and spatial machine learning references.
+- 🤗 [HuggingFace HandsOn Cookbook](https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook) - Hands-on Hugging Face examples across text, vision, speech, and multimodal AI.
+- ⚡ [mlx-flash](https://github.com/SSusantAchary/mlx-flash) - Fast, practical MLX workflows for Apple Silicon model training and experimentation.
+- 🎧 [mlx-sound](https://github.com/SSusantAchary/mlx-sound) - Audio AI with MLX for speech, music, embeddings, and on-device workflows.
+- 📚 [LLM Resources, Papers, Frameworks & Tools](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools) - Curated hub of LLM papers, tools, frameworks, and implementation resources.
+
+
 <!-- Mario-style banner (16:9) -->
 <div align="center">
   <img 
@@ -6,20 +82,6 @@
     style="width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.75em; margin-top: 0.25em;"
   />
 </div>
-
-### Hi there 👋 I'm Susant Achary
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SSusantAchary&label=Profile%20Views&color=blue&style=plastic" alt="SusantAchary" />
-</p>
-
-<!-- Dev animation -->
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220" />
-</p>
-
-**Interests:** AI for **Medical**, **Recommendation Systems**, and **Geospatial Intelligence**  
-I build practical ML systems—from experiments → scalable pipelines → production APIs.
 
 ## Hugging Face Contributor
 <p align="left">
@@ -34,6 +96,7 @@ I build practical ML systems—from experiments → scalable pipelines → produ
 - Building reproducible AI demos + practical ML systems for developers
 
 ---
+
 
 ## 🚧 Building: Port AI (Secure • Self-hosted • Offline)
 

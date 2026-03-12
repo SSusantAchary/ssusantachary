@@ -66,6 +66,7 @@ Currently building in stealth_mode **Port AI** — secure, self-hosted, offline-
 ## Current Projects
 
 - 🧠 [Gemma Recipes](https://github.com/SSusantAchary/Gemma_Recipes) - Practical Gemma notebooks and workflows for real-world AI use cases.
+- 🎯 [Video Point Tracker](https://github.com/SSusantAchary/video-point-tracker) - Local-first multimodal video point tracking with React, Express, Docker, and support for Ollama, LM Studio, and llama.cpp.
 - 👗 [StyleSense](https://github.com/SSusantAchary/StyleSense) - Fashion recommendation system covering real e-commerce personalization scenarios.
 - 🛰️ [Machine Learning for Geospatial](https://github.com/SSusantAchary/Machine-Learning-for-Geospatial) - GeoAI learning resources, experiments, and spatial machine learning references.
 - 🤗 [HuggingFace HandsOn Cookbook](https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook) - Hands-on Hugging Face examples across text, vision, speech, and multimodal AI.
